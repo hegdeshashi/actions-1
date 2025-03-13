@@ -1,2 +1,2 @@
 # actions-1
-My training 
+Mine training 
