@@ -1,2 +1,2 @@
 # actions-1
-Git training 
+Github training 
